@@ -1,0 +1,18 @@
+{
+
+    "linksUser":[
+        {
+            "videos": "videos",
+            "home": "home",
+            "Channels": "Channels"
+            
+        }
+    ],
+    "linksAdmin":[
+        {
+            "Subscriptions": "Subscriptions",
+            "History": "History",
+            "Upload": "Upload"
+        }
+    ]
+}
